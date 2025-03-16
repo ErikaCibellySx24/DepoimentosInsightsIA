@@ -13,7 +13,6 @@ Este projeto tem como objetivo a análise de depoimentos utilizando Processament
 - **pandas**: Para manipulação e estruturação dos dados.
 - **numpy**: Para cálculos e operações matemáticas.
 - **matplotlib & seaborn**: Para visualização dos dados e criação de gráficos.
-- **NLTK & spaCy**: Para processamento e análise de linguagem natural.
 - **json**: Para leitura e gravação dos resultados extraídos.
 
 ## Estrutura do Repositório
