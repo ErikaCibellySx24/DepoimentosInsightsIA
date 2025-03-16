@@ -1,4 +1,4 @@
-# Identificação de Padrões em Depoimentos Forenses
+# Identificação de Padrões em Depoimentos
 
 ## Descrição do Projeto
 Este projeto tem como objetivo a análise de depoimentos utilizando Processamento de Linguagem Natural (NLP). A ideia principal é identificar padrões nos textos, extraindo insights que possam auxiliar na investigação criminal.
