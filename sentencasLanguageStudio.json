@@ -1,0 +1,183 @@
+{
+    "documents": [
+        {
+            "id": "id__15159",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.34,
+                "neutral": 0.24,
+                "negative": 0.42
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.87,
+                        "negative": 0.12
+                    },
+                    "offset": 0,
+                    "length": 99,
+                    "text": "No bairro Nova Esperança, presenciei um assalto à mão armada enquanto estava indo para o trabalho. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.34,
+                        "negative": 0.65
+                    },
+                    "offset": 99,
+                    "length": 101,
+                    "text": "Ontem à noite, no bairro Jardim das Flores, houve uma discussão muito acalorada entre dois vizinhos. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.7,
+                        "negative": 0.3
+                    },
+                    "offset": 200,
+                    "length": 96,
+                    "text": "Eu estava caminhando no bairro Central quando vi um acidente de carro envolvendo dois veículos. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.12,
+                        "negative": 0.88
+                    },
+                    "offset": 296,
+                    "length": 88,
+                    "text": "No bairro São Paulo, uma pessoa foi vítima de fraude ao tentar fazer uma compra online. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.14,
+                        "neutral": 0.83,
+                        "negative": 0.03
+                    },
+                    "offset": 384,
+                    "length": 146,
+                    "text": "No bairro Parque dos Três Lagos, estava ajudando minha avó a fazer compras quando vi algumas pessoas discutindo por causa de um produto em falta. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.26,
+                        "negative": 0.72
+                    },
+                    "offset": 530,
+                    "length": 96,
+                    "text": "Fui abordado por um criminoso no bairro Vila Verde, que tentou me roubar, mas consegui escapar. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.36,
+                        "negative": 0.64
+                    },
+                    "offset": 626,
+                    "length": 98,
+                    "text": "No bairro Costa Azul, houve uma briga entre dois grupos de jovens, e a polícia teve que intervir. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0,
+                        "neutral": 0.87,
+                        "negative": 0.13
+                    },
+                    "offset": 724,
+                    "length": 144,
+                    "text": "Eu estava no bairro Boa Vista, tomando um café em um barzinho, quando um cliente teve uma discussão com o garçom por causa de um pedido errado. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.27,
+                        "negative": 0.72
+                    },
+                    "offset": 868,
+                    "length": 106,
+                    "text": "Alguém foi pego fazendo um golpe financeiro no bairro Santa Cruz, enganando pessoas com promessas falsas. "
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.01,
+                        "neutral": 0.44,
+                        "negative": 0.56
+                    },
+                    "offset": 974,
+                    "length": 124,
+                    "text": "Durante a madrugada, no bairro Jardim Tropical, ouvi gritos e, ao sair para ver, percebi que havia um assalto em andamento. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.97,
+                        "neutral": 0.03,
+                        "negative": 0
+                    },
+                    "offset": 1098,
+                    "length": 121,
+                    "text": "No bairro Bela Vista, organizei um evento de arrecadação de alimentos para a comunidade, e a participação foi excelente. "
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.17,
+                        "neutral": 0.81,
+                        "negative": 0.02
+                    },
+                    "offset": 1219,
+                    "length": 118,
+                    "text": "No bairro Jardim das Acácias, ajudei uma senhora a atravessar a rua, pois ela estava com dificuldades devido à idade. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.8,
+                        "neutral": 0.2,
+                        "negative": 0
+                    },
+                    "offset": 1337,
+                    "length": 97,
+                    "text": "No bairro Alto da Colina, vi um grupo de amigos jogando futebol no parque e se divertindo muito. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.88,
+                        "neutral": 0.12,
+                        "negative": 0
+                    },
+                    "offset": 1434,
+                    "length": 132,
+                    "text": "Em uma visita ao bairro Central, passei por um lindo festival de música local que trouxe muitas pessoas da cidade para se divertir. "
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.75,
+                        "neutral": 0.25,
+                        "negative": 0
+                    },
+                    "offset": 1566,
+                    "length": 117,
+                    "text": "Fui à praça no bairro Cidade Nova e encontrei várias pessoas praticando yoga ao ar livre, o que foi muito inspirador."
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2025-01-01"
+}
