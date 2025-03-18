@@ -43,6 +43,7 @@ Este projeto está em evolução e serão adicionadas novas funcionalidades, com
 - Melhor refinamento da análise utilizando técnicas avançadas de NLP.
 - Integração com modelos de Machine Learning para previsão de ocorrências.
 - Ampliação do conjunto de dados analisados.
+- Criação de dashboard com os dados e informações.
 
 Este projeto é parte da minha jornada de aprendizado em NLP e análise de depoimentos. Qualquer feedback é bem-vindo! 🚀
 
